@@ -6,10 +6,15 @@ Catchpoint Hackathon Project
 
 `
 APP_KEY: ""
+
 APP_SECRET: ""
+
 ACCESS_TOKEN: ""
+
 ACCESS_SECRET: ""
+
 CP_API_KEY: ""
+
 CP_API_SECRET: ""
 `
 3. Run the bot.js file 
